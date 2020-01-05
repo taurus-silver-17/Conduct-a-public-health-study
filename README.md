@@ -1,9 +1,8 @@
 # Prerequisite
 For this project, you will have to know how to manipulate the basics of the R or Python language, and how to use Dataframes type objects in these languages (objects native to the R language, and available in the Pandas library of Python. This project will make you work - via dataframes - on the concepts of relational algebra, which it is good to master. You will also have to master the basics of the SQL language, notably SQL queries of the SELECT type. If you are already familiar with this type of query, then you are probably unknowingly familiar with the concepts of relational algebra necessary for this project. Finally, you will need to know how to install and query (in SQL) a database management system of your choice (indications are given in the statement).
 
- 
 
-# Mise en situation
+# Setting in situation
 You are part of a new team of researchers at the Food and Agriculture Organization of the United Nations (FAO), one of the UN's constituent bodies whose goal is to "help build a world free from hunger".
 
 Your team is charged with carrying out a major study on the theme of undernutrition in the world.
@@ -14,6 +13,14 @@ The problem of hunger is complex and can have multiple causes, which differ from
 The data are available on the FAO website at http://www.fao.org/faostat/fr/#data .
 
 Based on the needs expressed below in this statement, it will be up to you to choose which data to download. However, the following sections will be useful to you:
+
+# Competencies assessed
+- Mastering the basics of Python
+- Perform complex SQL queries
+- Applying relational Python algebra
+- Use technical documentation
+- Retrieve data from an identified source
+- Using Specialized Libraries for Data Science
 
 # Food balance sheets
 Food Safety, then in this section, Food Safety Data .
